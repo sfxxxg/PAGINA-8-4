@@ -1,0 +1,612 @@
+
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    .mapaconceptual{
+        text-align: center;
+        padding: 2%;
+        margin: 2%;
+    }
+
+    
+    body{
+    
+        background-image: url("zelda.jpg");
+        
+        background-repeat: inherit;
+    
+        background-attachment: fixed;
+        
+        }
+   
+    
+
+    
+    .contenedor{
+    
+     
+    
+    height: 400px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: black;
+    
+     
+    
+    }
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .ftecnologia{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("ftecnologia.jpg");
+        
+        }
+        
+        
+        
+       .textotecno{
+        
+        text-align: justify;
+        
+        color: black;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
+        
+        
+        .imgtecno{
+        
+        position: relative;
+        
+         
+        
+        border-radius: 03px;
+        width: 550px;
+        top: 150px ;  
+        height: 460px;
+        
+        border-radius: 09px;
+        
+        background-repeat: no-repeat;
+        
+         
+        
+        left: 10px;
+        
+        background-image: url("tecnologia.gif");
+        
+        } 
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagenreligion{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 1000px;
+        
+        width: 500px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("R.jpg");
+        
+        }
+        
+        
+        
+        .textoreligion{
+        
+        text-align: justify;
+        
+        color:black;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
+        
+        
+        .imagenreligion{
+        
+        position: relative;
+        
+         
+        
+        border-radius: 03px;
+        width: 450px;
+        top: 150px ;  
+        height: 350px;
+        
+        border-radius: 09px;
+        
+        background-repeat: repeat;
+        background-size: cover;
+        
+         
+        
+        left: 200px;
+        
+        background-image: url("religion1.jpg");
+
+    }   
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+     
+        .imagbiologia{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 1000px;
+        
+        width: 500px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("R.jpg");
+        
+        }
+        
+        
+        
+        .textobiologia1{
+        
+        text-align: justify;
+        
+        color:black;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
+        
+        
+        .imgbiologia1{
+        
+        position: relative;
+        
+         
+        
+        border-radius: 03px;
+        width: 550px;
+        top: 147px ;  
+        height: 350px;
+        
+        border-radius: 09px;
+        
+        background-repeat: no-repeat;
+        
+         
+        
+        left: 300px;
+        
+        background-image: url("biologia1.jpg");
+    }       
+    .textobiologia2{
+        
+        text-align: justify;
+        
+        color:black;
+        
+        font-size: 20px;
+        
+        
+        
+        }     
+    .imgbiologia2{
+        
+        position: relative;
+        
+         
+        
+        border-radius: 03px;
+        width: 450px;
+        top: 5px ;  
+        height: 150px;
+        
+        border-radius: 09px;
+        
+        background-repeat: no-repeat;
+        
+         
+        
+        left: 300px;
+        
+        background-image: url("biologia2.jpg");
+    }         
+    .textobiologia3{
+        
+        text-align: justify;
+        
+        color:black;
+        
+        font-size: 20px;  }   
+        .imgbiologia3{
+        
+            position: relative;
+            
+             
+            
+            border-radius: 03px;
+   width: 450px;
+   top: 50px ;  
+   height: 250px;
+            
+   border-radius: 09px;
+            
+   background-repeat: no-repeat;
+            
+             
+ left: 330px;
+            
+ background-image: url("biologia3.jpg");
+        }         
+  .textobiologia4{
+        
+  text-align: justify;
+            
+  color:black;
+            
+  font-size: 20px;  }   
+  .imgbiologia4{
+            
+  position: relative;
+                
+                 
+                
+ border-radius: 03px;
+  width: 450px;
+  top: 10px ;  
+  height: 190px;
+                
+  border-radius: 09px;
+                
+   background-repeat: no-repeat;
+                
+                 
+                
+  left: 330px;
+                
+   background-image: url("biologia4.jpg");
+            }                
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+                 
+                
+                }
+                
+                 
+             
+     .ftecnologia{
+                
+                 
+                
+     background-repeat: no-repeat;
+                
+     float:left;
+     height: 1000px;
+     width: 500px;
+                
+     margin-left: 5px;
+                
+     margin-right:5px;
+                
+     background-image: url("");
+                
+   }
+                
+                
+                
+ .textobiologia1{
+                
+     text-align: justify;
+   color:black;
+                
+   font-size: 20px;
+                
+                
+                
+   }
+                
+                
+                
+    .imgingles{
+                
+   position: relative;
+                
+                 
+                
+   border-radius: 03px;
+width: 550px;
+  top: 147px ;  
+  height: 450px;
+                
+  border-radius: 09px;
+                
+ background-repeat: no-repeat;
+                
+                 
+ left: 10px;
+                
+     background-image: url("giphy.gif");
+ } 
+ .contenido{
+
+    height: 280px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 410px;
+    
+     
+    
+    }
+        
+ .ftecnologia{
+        
+         
+        
+    background-repeat: no-repeat;
+    
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("zelda.jpg");
+    
+    }
+    
+    
+    
+   .textosociales{
+    
+    text-align: justify;
+    
+    color: black;
+    
+    font-size: 20px;
+    
+    
+    
+    }
+    
+    
+    
+    .imgsociales{
+    
+    position: relative;
+    
+     
+    
+    border-radius: 03px;
+    width: 2450px;
+    top: 3px ;  
+    height: 2450px;
+    
+    border-radius: 09px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 10px;
+    
+    background-image: url("Mapa\ conceptual.png");
+    
+    }  
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+            
+     .ftecnologia{
+        
+        
+        background-image: url("zelda.jpg");
+        
+
+        background-repeat:repeat;
+
+    background-size: cover;
+
+        }
+        
+        
+        
+       .textoetica{
+        
+        text-align: justify;
+        
+        color: black;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
+        
+        
+        .imgetica{
+        
+        position: relative;
+        
+         
+        
+        border-radius: 03px;
+        width: 1550px;
+        top: 150px ;  
+        height: 850px;
+        
+        border-radius: 09px;
+        
+        background-repeat: repeat;
+        
+         
+        
+        left: 5px;
+        
+        background-image: url("WhatsApp\ Image\ 2023-08-03\ at\ 1.25.43\ AM.jpeg");
+        
+        }              
+        
+        .fsociales{
+            background-image: url(zelda.jpg);
+
+    background-repeat:repeat;
+
+    background-size: cover;
+
+        }
+
+        .contenedorreligion{
+
+            width: 90%; 
+            background-color: rgb(162, 132, 172);
+            border: 50%;
+            padding: 155px 155px;
+            margin: 0 auto
+           initial
+           
+            }
+    
+        .parrafo{
+
+            line-height: 2;
+            text-align: initial;
+            size: 20px;
+            background-color: aliceblue;
+        }
+
+        .titulo{
+            margin-top: 6px;
+            text-align: center;
+            background-color:rgb(100, 22, 172);
+            
+        }
+
+        .subtitulo{
+            margin: 10px auto;
+            font-style:oblique;
+            background-color:rgb(159, 100, 214);
+        }
+
+        .videomatematicas{
+            text-align: center;
+        }
+        
+        
