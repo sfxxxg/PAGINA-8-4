@@ -27,16 +27,22 @@
    
     
 
+     .contenedor¨{
+            background-color: aqua;
+            height: 50vh;
+            margin: 5%;
+            
+            display: flex;
+            justify-content: center;
+            align-items: center;
+                   }
+     
     
-    .contenedor{
+
     
      
     
-    height: 400px;
     
-     
-    
-    }
     
     .texto{
     
@@ -609,4 +615,4 @@ width: 550px;
             text-align: center;
         }
         
-        
+      
